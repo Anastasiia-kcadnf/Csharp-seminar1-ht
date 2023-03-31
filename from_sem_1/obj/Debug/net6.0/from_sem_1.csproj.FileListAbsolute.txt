@@ -1,0 +1,15 @@
+C:\GB_Git\C#\ht1\from_sem_1\bin\Debug\net6.0\from_sem_1.exe
+C:\GB_Git\C#\ht1\from_sem_1\bin\Debug\net6.0\from_sem_1.deps.json
+C:\GB_Git\C#\ht1\from_sem_1\bin\Debug\net6.0\from_sem_1.runtimeconfig.json
+C:\GB_Git\C#\ht1\from_sem_1\bin\Debug\net6.0\from_sem_1.dll
+C:\GB_Git\C#\ht1\from_sem_1\bin\Debug\net6.0\from_sem_1.pdb
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.csproj.AssemblyReference.cache
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.AssemblyInfoInputs.cache
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.AssemblyInfo.cs
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.csproj.CoreCompileInputs.cache
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.dll
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\refint\from_sem_1.dll
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.pdb
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\from_sem_1.genruntimeconfig.cache
+C:\GB_Git\C#\ht1\from_sem_1\obj\Debug\net6.0\ref\from_sem_1.dll
